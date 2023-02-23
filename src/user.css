@@ -1,0 +1,247 @@
+.blog{
+    width:119rem;
+    height:150rem;
+    position: relative;
+}
+
+.head{
+    height:5rem;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    box-shadow: 0px 3px 6px #00000029;
+}
+
+.t{
+    position:absolute;
+    top:2.5rem;
+    left:6rem;
+    font-weight: bold ;
+    rotate: -90deg;
+}
+
+.siren3{
+    font-weight: 900;
+    font-size:40px;
+    position: relative;
+    left:8rem;
+    top:1rem;
+}
+
+.get-started{
+    position: relative;
+    left:92rem;
+    padding:1rem 1rem;
+    border:2px solid rgb(0, 255, 0);
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 255, 0);
+    font-weight:900;
+    font-size: 1rem;;
+}
+
+
+.contents{
+     width:40rem;
+     height:125rem;
+     position: relative;
+     left:40rem;
+     
+}
+
+.ways{
+   font-family: 'Times New Roman', Times, serif;
+   position: relative;
+   top:2rem;
+   left:1rem;
+   font-size: 40px;;
+}
+
+.image{
+    position:relative;
+    top:3rem;
+    left:1rem;
+}
+
+.name{
+    position: relative;
+    left:9rem;
+    bottom:1rem;
+    font-weight:700;
+}
+
+.sub-date{
+    position: relative;
+    left:9rem;
+    font-size:small;
+    color:rgb(219, 210, 210)
+}
+
+.btn{
+    position: relative;
+    left:29rem;
+    bottom: 4rem;;
+    font-size: 1.5rem;
+    color:lightgrey;
+}
+
+.btn:hover{
+    font-size:1.7rem;
+    color:black;
+}
+
+.image2{
+    width:39.9rem;
+}
+
+.para{
+    font-size:25px;
+    position: relative;
+    top:2rem;
+}
+
+.para2{
+    font-size:25px;
+    position: relative;
+    top:4rem;
+}
+
+.img3{
+    width:40rem;
+    position: relative;
+    top:5rem;
+}
+
+.r-j-a{
+    width:40rem;
+    height:5rem;
+    position: relative;
+    top:5rem;
+}
+
+.r {
+    margin:1rem 1rem;
+    font-size: 20px;
+    padding:5px 5px;
+    background-color: rgb(226, 221, 221);
+    border:none;
+    
+}
+
+.j{
+    background-color: rgb(226, 221, 221);
+    margin:1rem 1rem;
+    font-size: 20px;
+    padding:5px 5px;
+    border:none;
+}
+
+.a{
+    margin:1rem 1rem;
+    background-color: rgb(226, 221, 221);
+    font-size: 20px;
+    padding:5px 5px;
+    border:none;
+}
+
+.clap-icon{
+    font-size:40px;
+}
+
+.clap-count{
+    color:rgb(180, 158, 158);
+    font-size:29px;
+}
+
+.clap-count:hover{
+  color:black
+}
+
+.user{
+    border-top:1px solid grey;
+    border-bottom:1px solid grey;
+    position: relative;
+    top:9rem;
+}
+.img6{
+    position: relative;
+    left:1rem;
+    top:2rem;
+    display:inline-block;
+}
+
+.writtn {
+    color: lightgrey;
+    position: relative;
+    left:9rem;
+    top:-4rem
+}
+
+.name2{
+   font-weight: bold;
+   position: relative;
+   left:9rem;
+   top:-4rem
+}
+
+.date4{
+    color: lightgrey;
+    position: relative;
+    left:9rem;
+    top:-4rem;
+    font-size:o.5rem;
+}
+
+.more{
+    width:119rem;
+    display:inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top:10rem;
+    padding-bottom:10rem;
+    padding-left:5rem;
+    padding-right:5rem;
+
+}
+
+.image10{
+    background-size: cover;
+    width:25rem;
+    height:19rem;
+    border-radius: 5px;
+
+}
+
+.more-container{
+    width:25rem;
+    position: relative;
+    left:1rem;
+}
+
+.text66{
+    position: relative;
+    left:20rem;
+    top:5rem;
+    border-bottom:2px solid red;
+    width:12rem;
+}
+
+.name333{
+    display: inline-block;
+    position: relative;
+    left:3rem;
+    bottom:3rem;
+}
+.para333{
+    display: inline-block;
+    position: relative;
+    left:-6rem;
+    bottom:1rem;
+}
+
+.clap2{
+    position:relative;
+    top:30rem;
+    width:20rem;
+    display:inline-block;
+    position: sticky;
+    left:15rem;
+}
+

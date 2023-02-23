@@ -1,0 +1,69 @@
+.form-container{
+    height:20rem;
+    width:20rem;
+    border:1px solid black;
+    position: relative;
+    left:50rem;
+    top:15rem;
+    border-radius: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+}
+
+h1{
+    position: relative;
+    left:5rem;
+    top:2rem;
+}
+
+label{
+    position: relative;
+    left:1rem;
+    top:2rem;
+    color:rgb(0, 0, 0)
+}
+.border{
+    position: relative;
+    left:4rem;
+    top:2.5rem;
+    border-radius: 5px;
+    background-image: linear-gradient(30deg,rgb(0, 119, 255),rgb(226, 34, 34));
+    height:170px;
+    width:200px;
+}
+
+
+.formSign{
+    position: relative;
+    top:3.5rem;
+    left:8rem;
+    padding:5px 5px;
+    background-color:rgb(109, 184, 255);
+    border:1px hidden ;
+    border-radius:5px;
+     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+input{
+  position: relative;
+  left:1rem;
+  top:2rem;
+  width:80%;
+  border-radius:3px;
+}
+
+.newAccount{
+    position: relative;
+    left:3rem;
+    top:3.5rem;
+}
+
+.formSubmit{
+    position: relative;
+    left:15rem;
+    top:2rem;
+    padding:5px 5px;
+    background-color:rgb(109, 184, 255);
+    border:1px hidden ;
+    border-radius:5px;
+     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
